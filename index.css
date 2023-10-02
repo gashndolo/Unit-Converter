@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+}
+
+#main {
+    box-sizing: border-box;
+    background-color: #6943ff;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin:  auto;
+    width: 100%;
+    display: inline-block;
+}
+input {
+    width: 130px;
+    height: 60px;
+    border: 1px solid #B295FF;
+    border-radius: 5px;
+    background-color: #6943ff;
+    color: white;
+    font-family: "Inter";
+    font-weight: bolder;
+    font-size: 25px;
+    text-align: center;
+}
+h2 {
+    font-family: "Inter";
+}
+button {
+    font-family: "Inter";
+    margin-top: 20px;
+    width: 130px;
+    height: 30px;
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+}
+
+#conversion {
+    background-color: #1F2937;
+    margin-top: 0;
+    display: inline-block;
+    width: 100%;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 40px;
+}
+.units {
+    background-color: #273549;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+h3 {
+    color: #CCC1FF;
+    font-family: "Inter";
+}
+p {
+    color: #FFFFFF;
+    font-family: "Inter";
+}
